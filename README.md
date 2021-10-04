@@ -42,6 +42,8 @@ Metrics:
 These metrics will be collected for the competing manufacturers needed for a duration of 2 years. 
 
 - Cost (Selling price of vehicle): Dependent Variable 
+
+
 Metrics below are Independent Variables
 - Highway fuel efficiency: 
 - Safety Ratings 
